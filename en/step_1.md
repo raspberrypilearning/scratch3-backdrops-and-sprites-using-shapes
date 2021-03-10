@@ -1,6 +1,6 @@
 ## Create backdrops and sprites using shapes
 
-You can create backdrops and sprites using just shapes in the paint editor.
+You can create backdrops and sprites in the paint editor, using just shapes.
 
 + Go to **Choose a Sprite** or **Choose a Backdrop** and select **Paint** to create a new sprite costume.
 
