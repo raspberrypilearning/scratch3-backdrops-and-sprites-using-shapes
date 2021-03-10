@@ -1,59 +1,36 @@
-## Introduction
+## Create backdrops and sprites using shapes
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+You can create backdrops and sprites using just shapes in the paint editor.
 
-### What you will make
++ Go to **Choose a Sprite** or **Choose a Backdrop** and select **Paint** to create a new sprite costume.
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
++ Select which tool(s) you will use for the shape(s) you want 
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+**Circle** tool: Select the **Circle** tool and drag your mouse (or finger if you are using a tablet) to draw a circle. Hold down shift to draw a perfect circle.
+![tool selected](images/circle-tool.png)
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+**Rectangle** tool: Select the **Rectangle** tool and drag your mouse (or finger if you are using a tablet) to draw a rectangle. Hold down shift to draw a square.
+![tool selected](images/rectangle-tool.png)
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+**triangle**: Select the **Rectangle** tool and draw a rectangle or a square.
+![triangle drawn](images/triangle.png)
 
-+ A computer or tablet capable of running Scratch 3
++ You can use the **Fill** tool to add colour to your shapes.
+![tool selected](images/fill-tool.png)
 
-### Software
++ If you use varying colours for the shapes, you may need to use the **Front** and **Back** tools in the Paint editor to move your shapes forward or backward so that they are positioned correctly within your background.
+![tools selected](images/front-back-tools.png)
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
++ You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape.
 
-### Downloads
+![Group shapes](images/challenge2-group-shapes.png){:width="400px"}
 
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
+Here is an example of a backdrop created with the **Circle** and **Rectangle** tools:
 
---- /collapse ---
+[A hill and blue sky](https://scratch.mit.edu/projects/452582516/editor){:target="_blank"}
 
---- collapse ---
----
-title: What you will learn
----
+Here is an example of a sprite created with the **Circle** and **Rectangle** tools:
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
+[A pig](https://scratch.mit.edu/projects/495903163/editor){:target="_blank"}
 
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+Remember to name your sprite(s) and backdrop(s)
