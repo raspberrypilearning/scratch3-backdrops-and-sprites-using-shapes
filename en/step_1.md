@@ -2,18 +2,22 @@
 
 You can create backdrops and sprites in the paint editor, using just shapes.
 
-+ Go to **Choose a Sprite** or **Choose a Backdrop** and select **Paint** to create a new sprite costume.
++ Choose a Sprite.
+IMAGE
+
++ Click the **Costumes** tab
+IMAGE
 
 + Select which tool(s) you will use for the shape(s) you want 
 
-**Circle** tool: Select the **Circle** tool and drag your mouse (or finger if you are using a tablet) to draw a circle. Hold down shift to draw a perfect circle.
-![tool selected](images/circle-tool.png)
+**Circle** tool: Click the **Circle** tool to draw a circle. Hold down shift to draw a perfect circle.
+![](images/circle-tool.png)
 
-**Rectangle** tool: Select the **Rectangle** tool and drag your mouse (or finger if you are using a tablet) to draw a rectangle. Hold down shift to draw a square.
-![tool selected](images/rectangle-tool.png)
+**Rectangle** tool: Click the **Rectangle** tool to draw a rectangle. Hold down shift to draw a square.
+![](images/rectangle-tool.png)
 
-**triangle**: Select the **Rectangle** tool and draw a rectangle or a square.
-![triangle drawn](images/triangle.png)
+**triangle**: Select the **Rectangle** tool and draw a rectangle or a square. Use the **Reshape** tool to make a triangle, and then drag the handle to rotate the triangle.
+![](images/triangle.png)
 
 + You can use the **Fill** tool to add colour to your shapes.
 ![tool selected](images/fill-tool.png)
@@ -25,12 +29,8 @@ You can create backdrops and sprites in the paint editor, using just shapes.
 
 ![Group shapes](images/challenge2-group-shapes.png){:width="400px"}
 
-Here is an example of a backdrop created with the **Circle** and **Rectangle** tools:
-
-[A hill and blue sky](https://scratch.mit.edu/projects/452582516/editor){:target="_blank"}
-
 Here is an example of a sprite created with the **Circle** and **Rectangle** tools:
 
 [A pig](https://scratch.mit.edu/projects/495903163/editor){:target="_blank"}
 
-Remember to name your sprite(s) and backdrop(s)
+Remember to name your sprite(s)
