@@ -38,6 +38,10 @@ You can select all the shapes and **Group** them together so that you can adjust
 
 Here is an example of a sprite created with the **Circle** and **Rectangle** tools:
 
-[A pig](https://scratch.mit.edu/projects/495903163/editor){:target="_blank"}
+**Pig**: [See inside](https://scratch.mit.edu/projects/495903163/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495903163/?autostart=false" frameborder="0"></iframe>
+</div>
+
 
 Remember to name your painted costumes and backdrops.
