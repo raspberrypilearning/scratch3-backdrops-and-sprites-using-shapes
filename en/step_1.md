@@ -1,10 +1,8 @@
 You can create backdrops and sprites in the paint editor, using just shapes.
 
-+ Choose a Sprite.
++ Click on the **Choose a Sprite** or **Choose a backdrop** menu and choose the paint option.
 ![Choose a sprite button](images/choose-a-sprite.png)
-
-+ Click the **Costumes** tab
-![Costumes tab selected](images/costumes-tab.png)
+![Choose a sprite button](images/choose-a-backdrop.png)
 
 + Select which tool(s) you will use for the shape(s) you want 
 
@@ -16,9 +14,9 @@ You can create backdrops and sprites in the paint editor, using just shapes.
 
 **Triangle**: Select the **Rectangle** tool and draw a rectangle or a square. Click on the **Reshape** tool and select the corner you want to remove. Click on the **Delete** tool to turn your shape into a triangle.
 
-![](images/square.png)
+![A square shape](images/square.png)
 ![Reshape tool in paint editor](images/reshape.png)
-![](images/corner.png)
+![A square shape with the corner selected](images/corner.png)
 ![Delete tool in paint editor](images/delete.png)
 
 + You can use the **Fill** tool to change the colour of your shapes.
@@ -30,7 +28,7 @@ You can create backdrops and sprites in the paint editor, using just shapes.
 
 + You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape.
 
-![Group tool in paint editor](images/group-shapes.png)
+![Group tool in paint editor](images/group-.png)
 ![Multiple shapes selected](images/selected-shapes.png)
 
 Here is an example of a sprite created with the **Circle** and **Rectangle** tools:
