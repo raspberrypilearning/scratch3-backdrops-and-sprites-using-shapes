@@ -1,5 +1,3 @@
-## Create backdrops and sprites using shapes
-
 You can create backdrops and sprites in the paint editor, using just shapes.
 
 + Choose a Sprite.
