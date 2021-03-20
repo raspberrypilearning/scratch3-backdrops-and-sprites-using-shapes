@@ -1,4 +1,4 @@
-You can create backdrops and sprites in the paint editor, using just shapes.
+You can create backdrops and costumes for sprites in the paint editor, using just shapes.
 
 Click on the **Choose a Sprite** or **Choose a Backdrop** menu and choose the paint option.
 
