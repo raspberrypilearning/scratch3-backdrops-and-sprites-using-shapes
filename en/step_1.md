@@ -1,40 +1,40 @@
-You can create backdrops and sprites in the paint editor, using just shapes.
+You can create backdrops and costumes for sprites in the Paint editor, using just shapes.
 
-Click on the **Choose a Sprite** or **Choose a Backdrop** menu and choose the paint option.
+Go to the **Choose a Sprite** or **Choose a Backdrop** menu and choose the **Paint** option.
 
-![Choose a sprite button](images/choose-a-sprite.png)
-![Choose a sprite button](images/choose-a-backdrop.png)
+![The 'Paint' option in the 'Choose a Sprite' menu.](images/choose-a-sprite.png)
+![The 'Paint' option in the 'Choose a Backdrop' menu.](images/choose-a-backdrop.png)
 
-Select which tool(s) you will use for the shape(s) you want 
+Select which tool(s) you will use for the shape(s) that you want. 
 
-+ **Circle**: Click the **Circle** tool to draw a circle. Hold down shift to draw a perfect circle.
++ **Circle**: Click on the **Circle** tool to draw a circle. Press and hold the <kbd>Shift</kbd> key on your keyboard to draw a perfect circle.
 
-![Circle tool in paint editor](images/circle-tool.png)
+![The Circle tool in the Paint editor.](images/circle-tool.png)
 
-+ **Rectangle**: Click the **Rectangle** tool to draw a rectangle. Hold down shift to draw a square.
++ **Rectangle**: Click on the **Rectangle** tool to draw a rectangle. Hold down <kbd>Shift</kbd> to draw a square.
 
-![Rectangle tool in paint editor](images/rectangle-tool.png)
+![The Rectangle tool in the Paint editor.](images/rectangle-tool.png)
 
-+ **Triangle**: Select the **Rectangle** tool and draw a rectangle or a square. Click on the **Reshape** tool and select the corner you want to remove. Click on the **Delete** tool to turn your shape into a triangle.
++ **Triangle**: Select the **Rectangle** tool and draw a rectangle or a square. Click on the **Reshape** tool and select the corner that you want to remove. Click on the **Delete** tool to turn your shape into a triangle.
 
-![A square shape](images/square.png)
-![Reshape tool in paint editor](images/reshape.png)
-![Delete tool in paint editor](images/delete.png)
-![A square shape with the corner selected](images/corner.png)
+![A square shape with one corner selected.](images/square.png)
+![The Reshape tool in the Paint editor.](images/reshape.png)
+![The Delete tool in the Paint editor.](images/delete.png)
+![A triangle shape.](images/corner.png)
 
-You can use the **Fill** tool to change the colour of your shapes.
+You can use the **Fill** tool to change the colour of a shape.
 
-![Fill tool in paint editor](images/fill-tool.png)
-![Fill colour chooser and new shape colour](images/changed-colour.png)
+![The Fill tool in the Paint editor.](images/fill-tool.png)
+![The Fill colour chooser and the new colour of the shape.](images/changed-colour.png)
 
-You may need to use the **Front** and **Back** tools to move your shapes forward or backward so that they are positioned correctly within your painting.
+You may need to use the **Forward** and **Backward** tools to move your shapes forward or backward so that they are positioned correctly within your image.
 
-![Front and back tool in paint editor](images/front-back-tools.png)
+![The Forward and Backward tools in the Paint editor.](images/front-back-tools.png)
 
 You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape.
 
-![Group tool in paint editor](images/group.png)
-![Multiple shapes selected](images/selected-shapes.png)
+![The Group tool in the Paint editor.](images/group.png)
+![Multiple shapes selected.](images/selected-shapes.png)
 
 Here is an example of a sprite created with the **Circle** and **Rectangle** tools:
 
@@ -44,4 +44,4 @@ Here is an example of a sprite created with the **Circle** and **Rectangle** too
 </div>
 
 
-Remember to name your painted costumes and backdrops.
+Remember to name the costumes and backdrops that you create in the Paint editor.
