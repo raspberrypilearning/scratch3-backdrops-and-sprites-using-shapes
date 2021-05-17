@@ -11,7 +11,7 @@ Select which tool(s) you will use for the shape(s) that you want:
 
 ![The Circle tool in the Paint editor.](images/circle-tool.png)
 
-+ **Rectangle**: Click on the **Rectangle** tool to draw a rectangle. Hold down <kbd>Shift</kbd> to draw a square.
++ **Rectangle**: Click on the **Rectangle** tool to draw a rectangle. Press and hold the <kbd>Shift</kbd> key to draw a square.
 
 ![The Rectangle tool in the Paint editor.](images/rectangle-tool.png)
 
