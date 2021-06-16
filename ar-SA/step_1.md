@@ -1,40 +1,40 @@
-You can create backdrops and costumes for sprites in the Paint editor, using just shapes.
+يمكنك إنشاء الخلفيات والأزياء للكائنات في محرر الرسام ، باستخدام الأشكال فقط.
 
-Go to the **Choose a Sprite** or **Choose a Backdrop** menu and choose the **Paint** option.
+اذهب إلى **اختر كائن** أو **اختر قائمة** واختر خيار **رسم**
 
-![The 'Paint' option in the 'Choose a Sprite' menu.](images/choose-a-sprite.png) ![The 'Paint' option in the 'Choose a Backdrop' menu.](images/choose-a-backdrop.png)
+![خيار "الرسام" في قائمة "اختيار كائن".](images/choose-a-sprite.png) ![خيار "الرسام" في قائمة "اختيار خلفية".](images/choose-a-backdrop.png)
 
-Select which tool(s) you will use for the shape(s) that you want.
+حدد الأداة (الأدوات) التي ستستخدمها للشكل (الأشكال) الذي تريده.
 
-+ **Circle**: Click on the **Circle** tool to draw a circle. Press and hold the <kbd>Shift</kbd> key on your keyboard to draw a perfect circle.
++ **دائرة**: اضغط على **دائرة** أداة لرسم دائرة. اضغط مع الاستمرار على مفتاح <kbd>shift</kbd> على لوحة المفاتيح لرسم دائرة مثالية.
 
-![The Circle tool in the Paint editor.](images/circle-tool.png)
+![أداة الدائرة في محرر الرسام.](images/circle-tool.png)
 
-+ **Rectangle**: Click on the **Rectangle** tool to draw a rectangle. Hold down <kbd>Shift</kbd> to draw a square.
++ **مستطيل**: اضغط على **مستطيل** أداة لرسم مستطيل. اضغط باستمرار على <kbd>Shift</kbd> لرسم مربع.
 
-![The Rectangle tool in the Paint editor.](images/rectangle-tool.png)
+![أداة المستطيل في محرر الرسام.](images/rectangle-tool.png)
 
-+ **Triangle**: Select the **Rectangle** tool and draw a rectangle or a square. Click on the **Reshape** tool and select the corner that you want to remove. Click on the **Delete** tool to turn your shape into a triangle.
++ **مثلث**: حدد **مستطيل** وارسم مستطيلاً أو مربعًا. انقر فوق **اعادة تشكيل** وحدد الزاوية التي تريد إزالتها. انقر فوق **حذف** لتحويل الشكل الخاص بك إلى مثلث.
 
-![A square shape with one corner selected.](images/square.png) ![The Reshape tool in the Paint editor.](images/reshape.png) ![The Delete tool in the Paint editor.](images/delete.png) ![A triangle shape.](images/corner.png)
+![شكل مربع مع تحديد زاوية واحدة.](images/square.png) ![أداة اعادة تشكيل في محرر الرسام.](images/reshape.png) ![أداة الحذف في محرر الرسام.](images/delete.png) ![شكل مثلث.](images/corner.png)
 
-You can use the **Fill** tool to change the colour of a shape.
+يمكنك استخدام **ملء** لتغيير لون الشكل.
 
-![The Fill tool in the Paint editor.](images/fill-tool.png) ![The Fill colour chooser and the new colour of the shape.](images/changed-colour.png)
+![أداة ملء في محرر الرسام.](images/fill-tool.png) ![منتقي لون التعبئة واللون الجديد للشكل.](images/changed-colour.png)
 
-You may need to use the **Forward** and **Backward** tools to move your shapes forward or backward so that they are positioned correctly within your image.
+قد تحتاج إلى استخدام أدوات **طبقة الى الامام** و **طبقة الى الخلف** لتحريك الأشكال للأمام أو للخلف بحيث يتم وضعها بشكل صحيح داخل صورتك.
 
-![The Forward and Backward tools in the Paint editor.](images/front-back-tools.png)
+![الأداتان طبقة الى الامام وطبقة الى الخلف في محرر الرسام.](images/front-back-tools.png)
 
-You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape.
+يمكنك تحديد كل الأشكال و **المجموعة** معًا بحيث يمكنك تعديلها أو نقلها كشكل واحد.
 
-![The Group tool in the Paint editor.](images/group.png) ![Multiple shapes selected.](images/selected-shapes.png)
+![أداة المجموعة في محرر الرسام.](images/group.png) ![تم تحديد أشكال متعددة.](images/selected-shapes.png)
 
-Here is an example of a sprite created with the **Circle** and **Rectangle** tools:
+فيما يلي مثال على كائن تم إنشاؤه باستخدام أدوات **الدائرة ** و **المستطيل**:
 
-**Pig**: [See inside](https://scratch.mit.edu/projects/495903163/editor){:target="_blank"}
+**خنزير**: [انظر في الداخل](https://scratch.mit.edu/projects/495903163/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495903163/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Remember to name the costumes and backdrops that you create in the Paint editor.
+تذكر تسمية الأزياء والخلفيات التي تنشئها في محرر الرسام.
