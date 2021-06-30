@@ -5,7 +5,7 @@ Go to the **Choose a Sprite** or **Choose a Backdrop** menu and choose the **Pai
 ![The 'Paint' option in the 'Choose a Sprite' menu.](images/choose-a-sprite.png)
 ![The 'Paint' option in the 'Choose a Backdrop' menu.](images/choose-a-backdrop.png)
 
-Select which tool(s) you will use for the shape(s) that you want: 
+Select which tool(s) to use to make the shape(s) that you want: 
 
 + **Circle**: Click on the **Circle** tool to draw a circle. Press and hold the <kbd>Shift</kbd> key on your keyboard to draw a perfect circle.
 
@@ -15,7 +15,7 @@ Select which tool(s) you will use for the shape(s) that you want:
 
 ![The Rectangle tool in the Paint editor.](images/rectangle-tool.png)
 
-+ **Triangle**: Select the **Rectangle** tool and draw a rectangle or a square. Click on the **Reshape** tool and select the corner that you want to remove. Click on the **Delete** tool to turn your shape into a triangle.
++ **Triangle**: Use the **Rectangle** tool to draw a rectangle or a square. Click on the **Reshape** tool and select the corner that you want to remove. Click on the **Delete** tool to turn your shape into a triangle.
 
 ![A square shape with one corner selected.](images/square.png)
 ![The Reshape tool in the Paint editor.](images/reshape.png)
