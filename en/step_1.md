@@ -25,7 +25,7 @@ Select which tool(s) to use to make the shape(s) that you want:
 You can use the **Fill** tool to change the colour of a shape:
 
 ![The Fill tool in the Paint editor.](images/fill-tool.png)
-![The Fill colour chooser and the new colour of the shape.](images/changed-colour.png){:style="width: 150px"}
+![The Fill colour chooser and the new colour of the shape.](images/changed-colour.png){:style="width: 250px"}
 
 You may need to use the **Forward** and **Backward** tools to move your shapes forward or backward so that they are positioned correctly within your image:
 
