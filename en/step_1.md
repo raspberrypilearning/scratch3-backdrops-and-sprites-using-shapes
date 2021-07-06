@@ -25,7 +25,7 @@ Select which tool(s) to use to make the shape(s) that you want:
 You can use the **Fill** tool to change the colour of a shape:
 
 ![The Fill tool in the Paint editor.](images/fill-tool.png)
-![The Fill colour chooser and the new colour of the shape.](images/changed-colour.png){:style="width: 250px"}
+![The Fill colour chooser and the new colour of the shape.](images/changed-colour.png){:style="width: 350px"}
 
 You may need to use the **Forward** and **Backward** tools to move your shapes forward or backward so that they are positioned correctly within your image:
 
@@ -34,7 +34,7 @@ You may need to use the **Forward** and **Backward** tools to move your shapes f
 You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape:
 
 ![The Group tool in the Paint editor.](images/group.png)
-![Multiple shapes selected.](images/selected-shapes.png)
+![Multiple shapes selected.](images/selected-shapes.png){:style="width: 350px"}
 
 Here is an example of a sprite created with the **Circle** and **Rectangle** tools:
 
