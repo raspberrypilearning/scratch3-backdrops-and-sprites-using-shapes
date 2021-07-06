@@ -2,8 +2,8 @@ You can create backdrops and costumes for sprites in the Paint editor, using jus
 
 Go to the **Choose a Sprite** or **Choose a Backdrop** menu and choose the **Paint** option:
 
-![The 'Paint' option in the 'Choose a Sprite' menu.](images/choose-a-sprite.png)
-![The 'Paint' option in the 'Choose a Backdrop' menu.](images/choose-a-backdrop.png)
+![The 'Paint' option in the 'Choose a Sprite' menu.](images/choose-a-sprite.png){:style="float: left"}
+![The 'Paint' option in the 'Choose a Backdrop' menu.](images/choose-a-backdrop.png){:style="float: left"}
 
 Select which tool(s) to use to make the shape(s) that you want: 
 
@@ -17,15 +17,15 @@ Select which tool(s) to use to make the shape(s) that you want:
 
 + **Triangle**: Use the **Rectangle** tool to draw a rectangle or a square. Click on the **Reshape** tool and select the corner that you want to remove. Click on the **Delete** tool to turn your shape into a triangle.
 
-![A square shape with one corner selected.](images/square.png)
+![A square shape with one corner selected.](images/square.png){:style="width: 150px"}
 ![The Reshape tool in the Paint editor.](images/reshape.png)
 ![The Delete tool in the Paint editor.](images/delete.png)
-![A triangle shape.](images/corner.png)
+![A triangle shape.](images/corner.png){:style="width: 150px"}
 
 You can use the **Fill** tool to change the colour of a shape:
 
 ![The Fill tool in the Paint editor.](images/fill-tool.png)
-![The Fill colour chooser and the new colour of the shape.](images/changed-colour.png)
+![The Fill colour chooser and the new colour of the shape.](images/changed-colour.png){:style="width: 150px"}
 
 You may need to use the **Forward** and **Backward** tools to move your shapes forward or backward so that they are positioned correctly within your image:
 
