@@ -1,34 +1,36 @@
 Tu peux créer des arrière-plans et des costumes pour les sprites dans l'éditeur de peinture, en utilisant uniquement des formes.
 
-Va dans le menu **Choisir un Sprite** ou **Choisir un arrière-plan** et choisis l'option **Peindre**.
+Go to the **Choose a Sprite** or **Choose a Backdrop** menu and choose the **Paint** option:
 
-![L'option « Peindre » dans le menu « Choisir un sprite ».](images/choose-a-sprite.png) ![L'option « Peindre » dans le menu « Choisir un arrière-plan ».](images/choose-a-backdrop.png)
+![The 'Paint' option in the 'Choose a Sprite' menu.](images/choose-a-sprite.png){:style="float: left"}
+![The 'Paint' option in the 'Choose a Backdrop' menu.](images/choose-a-backdrop.png){:style="float: left"}
 
-Sélectionne les outils que tu utiliseras pour la ou les forme(s) souhaitée(s).
+Select which tool(s) to use to make the shape(s) that you want:
 
 + **Cercle** : Clique sur l'outil **Cercle** pour dessiner un cercle. Appuie sur la touche <kbd>Maj</kbd> de ton clavier et maintiens-la enfoncée pour dessiner un cercle parfait.
 
 ![L'outil Cercle dans l'éditeur de peinture.](images/circle-tool.png)
 
-+ **Rectangle** : Clique sur l'outil **Rectangle** pour dessiner un rectangle. Maintiens la touche <kbd>Maj</kbd> pour dessiner un carré.
++ **Rectangle** : Clique sur l'outil **Rectangle** pour dessiner un rectangle. Press and hold the <kbd>Shift</kbd> key to draw a square.
 
 ![L'outil Rectangle dans l'éditeur de peinture.](images/rectangle-tool.png)
 
-+ **Triangle** : Sélectionne l'outil **Rectangle** et dessine un rectangle ou un carré. Clique sur l'outil **Redessiner** et sélectionne le coin que tu souhaites supprimer. Clique sur l'outil **Supprimer** pour transformer ta forme en triangle.
++ **Triangle**: Use the **Rectangle** tool to draw a rectangle or a square. Clique sur l'outil **Redessiner** et sélectionne le coin que tu souhaites supprimer. Clique sur l'outil **Supprimer** pour transformer ta forme en triangle.
 
-![Une forme carrée avec un coin sélectionné.](images/square.png) ![L'outil Redessiner dans l'éditeur de peinture.](images/reshape.png) ![L'outil Supprimer dans l'éditeur de peinture.](images/delete.png) ![Une forme de triangle.](images/corner.png)
+![A square shape with one corner selected.](images/square.png){:style="width: 150px"}
+![The Reshape tool in the Paint editor.](images/reshape.png) ![The Delete tool in the Paint editor.](images/delete.png) ![A triangle shape.](images/corner.png){:style="width: 150px"}
 
-Tu peux utiliser l'outil **Remplissage** pour changer la couleur d'une forme.
+You can use the **Fill** tool to change the colour of a shape:
 
-![L'outil Remplissage dans l'éditeur de peinture.](images/fill-tool.png) ![Le sélecteur de couleur de remplissage et la nouvelle couleur de la forme.](images/changed-colour.png)
+![The Fill tool in the Paint editor.](images/fill-tool.png) ![The Fill colour chooser and the new colour of the shape.](images/changed-colour.png){:style="width: 350px"}
 
-Tu devras peut-être utiliser les outils **Avancer** et **Reculer** pour déplacer tes formes vers l'avant ou vers l'arrière afin qu'elles soient correctement positionnées dans ton image.
+You may need to use the **Forward** and **Backward** tools to move your shapes forward or backward so that they are positioned correctly within your image:
 
 ![Les outils Avancer et Reculer dans l'éditeur de peinture.](images/front-back-tools.png)
 
-Tu peux sélectionner toutes les formes et les **grouper** ensemble afin de pouvoir les ajuster ou les déplacer comme une seule forme.
+You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape:
 
-![L'outil Grouper dans l'éditeur de peinture.](images/group.png) ![Plusieurs formes sélectionnées.](images/selected-shapes.png)
+![The Group tool in the Paint editor.](images/group.png) ![Multiple shapes selected.](images/selected-shapes.png){:style="width: 350px"}
 
 Voici un exemple de sprite créé avec les outils **Cercle** et **Rectangle** :
 
