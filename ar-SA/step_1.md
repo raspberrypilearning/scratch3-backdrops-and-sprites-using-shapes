@@ -1,34 +1,36 @@
 يمكنك إنشاء الخلفيات والأزياء للكائنات في محرر الرسام ، باستخدام الأشكال فقط.
 
-اذهب إلى **اختر كائن** أو **اختر قائمة** واختر خيار **رسم**
+Go to the **Choose a Sprite** or **Choose a Backdrop** menu and choose the **Paint** option:
 
-![خيار "الرسام" في قائمة "اختيار كائن".](images/choose-a-sprite.png) ![خيار "الرسام" في قائمة "اختيار خلفية".](images/choose-a-backdrop.png)
+![The 'Paint' option in the 'Choose a Sprite' menu.](images/choose-a-sprite.png){:style="float: left"}
+![The 'Paint' option in the 'Choose a Backdrop' menu.](images/choose-a-backdrop.png){:style="float: left"}
 
-حدد الأداة (الأدوات) التي ستستخدمها للشكل (الأشكال) الذي تريده.
+Select which tool(s) to use to make the shape(s) that you want:
 
 + **دائرة**: اضغط على **دائرة** أداة لرسم دائرة. اضغط مع الاستمرار على مفتاح <kbd>shift</kbd> على لوحة المفاتيح لرسم دائرة مثالية.
 
 ![أداة الدائرة في محرر الرسام.](images/circle-tool.png)
 
-+ **مستطيل**: اضغط على **مستطيل** أداة لرسم مستطيل. اضغط باستمرار على <kbd>Shift</kbd> لرسم مربع.
++ **مستطيل**: اضغط على **مستطيل** أداة لرسم مستطيل. Press and hold the <kbd>Shift</kbd> key to draw a square.
 
 ![أداة المستطيل في محرر الرسام.](images/rectangle-tool.png)
 
-+ **مثلث**: حدد **مستطيل** وارسم مستطيلاً أو مربعًا. انقر فوق **اعادة تشكيل** وحدد الزاوية التي تريد إزالتها. انقر فوق **حذف** لتحويل الشكل الخاص بك إلى مثلث.
++ **Triangle**: Use the **Rectangle** tool to draw a rectangle or a square. انقر فوق **اعادة تشكيل** وحدد الزاوية التي تريد إزالتها. انقر فوق **حذف** لتحويل الشكل الخاص بك إلى مثلث.
 
-![شكل مربع مع تحديد زاوية واحدة.](images/square.png) ![أداة اعادة تشكيل في محرر الرسام.](images/reshape.png) ![أداة الحذف في محرر الرسام.](images/delete.png) ![شكل مثلث.](images/corner.png)
+![A square shape with one corner selected.](images/square.png){:style="width: 150px"}
+![The Reshape tool in the Paint editor.](images/reshape.png) ![The Delete tool in the Paint editor.](images/delete.png) ![A triangle shape.](images/corner.png){:style="width: 150px"}
 
-يمكنك استخدام **ملء** لتغيير لون الشكل.
+You can use the **Fill** tool to change the colour of a shape:
 
-![أداة ملء في محرر الرسام.](images/fill-tool.png) ![منتقي لون التعبئة واللون الجديد للشكل.](images/changed-colour.png)
+![The Fill tool in the Paint editor.](images/fill-tool.png) ![The Fill colour chooser and the new colour of the shape.](images/changed-colour.png){:style="width: 350px"}
 
-قد تحتاج إلى استخدام أدوات **طبقة الى الامام** و **طبقة الى الخلف** لتحريك الأشكال للأمام أو للخلف بحيث يتم وضعها بشكل صحيح داخل صورتك.
+You may need to use the **Forward** and **Backward** tools to move your shapes forward or backward so that they are positioned correctly within your image:
 
 ![الأداتان طبقة الى الامام وطبقة الى الخلف في محرر الرسام.](images/front-back-tools.png)
 
-يمكنك تحديد كل الأشكال و **المجموعة** معًا بحيث يمكنك تعديلها أو نقلها كشكل واحد.
+You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape:
 
-![أداة المجموعة في محرر الرسام.](images/group.png) ![تم تحديد أشكال متعددة.](images/selected-shapes.png)
+![The Group tool in the Paint editor.](images/group.png) ![Multiple shapes selected.](images/selected-shapes.png){:style="width: 350px"}
 
 فيما يلي مثال على كائن تم إنشاؤه باستخدام أدوات **الدائرة ** و **المستطيل**:
 
