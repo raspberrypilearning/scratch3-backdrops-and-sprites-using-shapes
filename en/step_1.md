@@ -9,31 +9,31 @@ Select which tool(s) to use to make the shape(s) that you want:
 
 + **Circle**: Click on the **Circle** tool to draw a circle. Press and hold the <kbd>Shift</kbd> key on your keyboard to draw a perfect circle.
 
-![The Circle tool in the Paint editor.](images/circle-tool.png)
+![The Circle tool.](images/circle-tool.png)
 
 + **Rectangle**: Click on the **Rectangle** tool to draw a rectangle. Press and hold the <kbd>Shift</kbd> key to draw a square.
 
-![The Rectangle tool in the Paint editor.](images/rectangle-tool.png)
+![The Rectangle tool.](images/rectangle-tool.png)
 
 + **Triangle**: Use the **Rectangle** tool to draw a rectangle or a square. Click on the **Reshape** tool and select the corner that you want to remove. Click on the **Delete** tool to turn your shape into a triangle.
 
 ![A square shape with one corner selected.](images/square.png){:style="width: 150px"}
-![The Reshape tool in the Paint editor.](images/reshape.png)
-![The Delete tool in the Paint editor.](images/delete.png)
+![The Reshape tool.](images/reshape.png)
+![The Delete tool.](images/delete.png)
 ![A triangle shape.](images/corner.png){:style="width: 150px"}
 
 You can use the **Fill** tool to change the colour of a shape:
 
-![The Fill tool in the Paint editor.](images/fill-tool.png)
+![The Fill tool.](images/fill-tool.png)
 ![The Fill colour chooser and the new colour of the shape.](images/changed-colour.png){:style="width: 350px"}
 
 You may need to use the **Forward** and **Backward** tools to move your shapes forward or backward so that they are positioned correctly within your image:
 
-![The Forward and Backward tools in the Paint editor.](images/front-back-tools.png)
+![The Forward and Backward tools.](images/front-back-tools.png)
 
 You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape:
 
-![The Group tool in the Paint editor.](images/group.png)
+![The Group tool.](images/group.png)
 ![Multiple shapes selected.](images/selected-shapes.png){:style="width: 350px"}
 
 Here is an example of a sprite created with the **Circle** and **Rectangle** tools:
