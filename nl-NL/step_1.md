@@ -1,52 +1,52 @@
 Je kunt achtergronden en uiterlijken voor sprites maken in de Teken-editor door enkel vormen te gebruiken.
 
-Go to the **Choose a Sprite** or **Choose a Backdrop** menu and choose the **Paint** option:
+Ga naar het **Kies een sprite** of **Kies een achtergrond** menu en kies de **Tekenen** optie:
 
-![The 'Paint' option in the 'Choose a Sprite' menu.](images/choose-a-sprite.png){:style="float: left"}
+![De 'Tekenen' optie in het 'Kies een sprite' menu.](images/choose-a-sprite.png){:style="float: left"}
 
-![The 'Paint' option in the 'Choose a Backdrop' menu.](images/choose-a-backdrop.png){:style="float: left"}
+![De 'Tekenen' optie in het 'Kies een achtergrond' menu.](images/choose-a-backdrop.png){:style="float: left"}
 
-Select which tool(s) to use to make the shape(s) that you want:
+Bepaal welk(e) gereedschap(pen) je wilt gebruiken voor de vorm(en) die je wilt:
 
 + **Cirkel**: Klik op het **Cirkel** gereedschap om een cirkel te tekenen. Houdt de <kbd>Shift</kbd> toets op je toetsenbord ingedrukt om een perfecte cirkel te tekenen.
 
-![The Circle tool.](images/circle-tool.png)
+![Het Cirkel gereedschap.](images/circle-tool.png)
 
-+ **Rechthoek**: Klik op het **Rechthoek** gereedschap om een rechthoek te tekenen. Press and hold the <kbd>Shift</kbd> key to draw a square.
++ **Rechthoek**: Klik op het **Rechthoek** gereedschap om een rechthoek te tekenen. Houd <kbd>Shift</kbd> ingedrukt om een vierkant te tekenen.
 
-![The Rectangle tool.](images/rectangle-tool.png)
+![Het Rechthoek gereedschap.](images/rectangle-tool.png)
 
-+ **Triangle**: Use the **Rectangle** tool to draw a rectangle or a square. Klik op het **Opnieuw vormen** gereedschap en kies de hoek die je wilt verwijderen. Klik op het **Verwijder** pictogram om je vorm in een driehoek te veranderen.
++ **Driehoek**: Gebruik het **Rechthoek** gereedschap om een rechthoek of vierkant te tekenen. Klik op het **Opnieuw vormen** gereedschap en kies de hoek die je wilt verwijderen. Klik op het **Verwijder** pictogram om je vorm in een driehoek te veranderen.
 
-![A square shape with one corner selected.](images/square.png){:style="width: 150px"}
+![Een vierkante vorm met één hoek geselecteerd.](images/square.png){:style="width: 150px"}
 
-![The Reshape tool.](images/reshape.png)
+![Het Opnieuw vormen gereedschap.](images/reshape.png)
 
-![The Delete tool.](images/delete.png)
+![Het Verwijder gereedschap.](images/delete.png)
 
-![A triangle shape.](images/corner.png){:style="width: 150px"}
+![Een driehoekige vorm.](images/corner.png){:style="width: 150px"}
 
-You can use the **Fill** tool to change the colour of a shape:
+Je kunt het **Vulling** gereedschap gebruiken om de kleur van een vorm te veranderen:
 
-![The Fill tool.](images/fill-tool.png)
+![Het Vulling gereedschap.](images/fill-tool.png)
 
-![The Fill colour chooser and the new colour of the shape.](images/changed-colour.png){:style="width: 350px"}
+![De Vulling kleurkiezer en de nieuwe kleur van de vorm.](images/changed-colour.png){:style="width: 350px"}
 
-You may need to use the **Forward** and **Backward** tools to move your shapes forward or backward so that they are positioned correctly within your image:
+Het kan zijn dat je de **Naar voren** en **Naar achteren** gereedschappen nodig hebt om je vormen naar voren of achteren te verplaatsen, zodat ze goed binnen je afbeelding passen:
 
-![The Forward and Backward tools.](images/front-back-tools.png)
+![De Naar voren en Naar achteren gereedschappen.](images/front-back-tools.png)
 
-You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape:
+Je kunt alle vormen selecteren en ze samen **Groeperen** zodat je ze als één geheel kunt aanpassen of verplaatsen:
 
-![The Group tool.](images/group.png)
+![Het Groeperen gereedschap.](images/group.png)
 
-![Multiple shapes selected.](images/selected-shapes.png){:style="width: 350px"}
+![Meerdere vormen geselecteerd.](images/selected-shapes.png){:style="width: 350px"}
 
-Here is an example of a sprite created with the **Circle** and **Rectangle** tools:
+Hier een voorbeeld van een sprite gemaakt met de **Cirkel** en **Rechthoek** gereedschappen:
 
-**Pig**: [See inside](https://scratch.mit.edu/projects/495903163/editor){:target="_blank"}
+**Varken**: [Bekijk van binnen](https://scratch.mit.edu/projects/495903163/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495903163/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Remember to name the costumes and backdrops that you create in the Paint editor.
+Vergeet niet om de uiterlijken en achtergronden die je maakt in de Teken editor een naam te geven.
