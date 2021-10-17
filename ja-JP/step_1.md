@@ -1,4 +1,4 @@
-ペイントエディタの図形だけを使って背景やスプライトのコスチュームを作成できます。
+ペイントエディターの図形だけを使って背景やスプライトのコスチュームを作成できます。
 
 **スプライトを選ぶ**または**背景を選ぶ** メニューから**描く**オプションを選択します。
 
@@ -8,45 +8,45 @@
 
 作りたい図形を作るのに使うツールを選択します。
 
-+ **Circle**: Click on the **Circle** tool to draw a circle. Press and hold the <kbd>Shift</kbd> key on your keyboard to draw a perfect circle.
++ **円**: **円**ツールをクリックして円を描きます。 キーボードの<kbd>Shift</kbd>キーを押したままにすると真円を描くことができます。
 
-![The Circle tool.](images/circle-tool.png)
+![円ツール。](images/circle-tool.png)
 
-+ **Rectangle**: Click on the **Rectangle** tool to draw a rectangle. Press and hold the <kbd>Shift</kbd> key to draw a square.
++ **四角形**: **四角形**ツールをクリックして四角形を描画します。 <kbd>Shift</kbd>キーを押したままにすると正方形を描くことができます。
 
-![The Rectangle tool.](images/rectangle-tool.png)
+![四角形ツール。](images/rectangle-tool.png)
 
-+ **Triangle**: Use the **Rectangle** tool to draw a rectangle or a square. Click on the **Reshape** tool and select the corner that you want to remove. Click on the **Delete** tool to turn your shape into a triangle.
++ **三角形**: **四角形**ツールをクリックして長方形や正方形を描画します。 **形を変える**ツールをクリックして削除する角を選択します。 **削除**ツールをクリックして図形を三角形に変えます。
 
-![A square shape with one corner selected.](images/square.png){:style="width: 150px"}
+![1つの角が選択された正方形。](images/square.png){:style="width: 150px"}
 
-![The Reshape tool.](images/reshape.png)
+![形を変えるツール。](images/reshape.png)
 
-![The Delete tool.](images/delete.png)
+![削除ツール。](images/delete.png)
 
-![A triangle shape.](images/corner.png){:style="width: 150px"}
+![三角形。](images/corner.png){:style="width: 150px"}
 
-You can use the **Fill** tool to change the colour of a shape:
+**塗りつぶし**ツールを使用して図形の色を変更できます。
 
-![The Fill tool.](images/fill-tool.png)
+![塗りつぶしツール。](images/fill-tool.png)
 
-![The Fill colour chooser and the new colour of the shape.](images/changed-colour.png){:style="width: 350px"}
+![塗りつぶす色の選択と図形の新しい色。](images/changed-colour.png){:style="width: 350px"}
 
-You may need to use the **Forward** and **Backward** tools to move your shapes forward or backward so that they are positioned correctly within your image:
+画像内で正しく配置されるように、**手前に出す**および**奥に下げる**ツールを使用して図形を前後に移動できます。
 
-![The Forward and Backward tools.](images/front-back-tools.png)
+![手前に出すと奥に下げるツール。](images/front-back-tools.png)
 
-You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape:
+全ての図形を選択し**グループ化**を使って1つにまとめると、1つの図形であるかのように調整したり動かすことができます。
 
-![The Group tool.](images/group.png)
+![グループ化ツール。](images/group.png)
 
-![Multiple shapes selected.](images/selected-shapes.png){:style="width: 350px"}
+![選択された複数の図形。](images/selected-shapes.png){:style="width: 350px"}
 
-Here is an example of a sprite created with the **Circle** and **Rectangle** tools:
+これは**円**および**四角形**ツールで作成されたスプライトの一例です。
 
-**Pig**: [See inside](https://scratch.mit.edu/projects/495903163/editor){:target="_blank"}
+**豚**: [中を見る](https://scratch.mit.edu/projects/495903163/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495903163/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Remember to name the costumes and backdrops that you create in the Paint editor.
+ペイントエディターで作成するコスチュームや背景に名前を付けることを忘れないでください。
