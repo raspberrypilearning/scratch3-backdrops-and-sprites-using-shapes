@@ -1,12 +1,12 @@
-You can create backdrops and costumes for sprites in the Paint editor, using just shapes.
+ペイントエディタの図形だけを使って背景やスプライトのコスチュームを作成できます。
 
-Go to the **Choose a Sprite** or **Choose a Backdrop** menu and choose the **Paint** option:
+**スプライトを選ぶ**または**背景を選ぶ** メニューから**描く**オプションを選択します。
 
-![The 'Paint' option in the 'Choose a Sprite' menu.](images/choose-a-sprite.png){:style="float: left"}
+![「スプライトを選ぶ」メニューの「描く」オプション。](images/choose-a-sprite.png){:style="float: left"}
 
-![The 'Paint' option in the 'Choose a Backdrop' menu.](images/choose-a-backdrop.png){:style="float: left"}
+![「背景を選ぶ」メニューの「描く」オプション。](images/choose-a-backdrop.png){:style="float: left"}
 
-Select which tool(s) to use to make the shape(s) that you want:
+作りたい図形を作るのに使うツールを選択します。
 
 + **Circle**: Click on the **Circle** tool to draw a circle. Press and hold the <kbd>Shift</kbd> key on your keyboard to draw a perfect circle.
 
