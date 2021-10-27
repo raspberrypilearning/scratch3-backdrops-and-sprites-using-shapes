@@ -1,52 +1,52 @@
-You can create backdrops and costumes for sprites in the Paint editor, using just shapes.
+Μπορείτε να δημιουργήσετε σκηνικά και κοστούμια για sprites στον επεξεργαστή Paint, χρησιμοποιώντας μόνο σχήματα.
 
-Go to the **Choose a Sprite** or **Choose a Backdrop** menu and choose the **Paint** option:
+Μεταβείτε στο **Choose a Sprite** ή **Choose a Backdrop** και επιλέξτε την επιλογή **Paint**:
 
-![The 'Paint' option in the 'Choose a Sprite' menu.](images/choose-a-sprite.png){:style="float: left"}
+![Η επιλογή "Paint" στο μενού "Choose a Sprite".](images/choose-a-sprite.png){:style="float: left"}
 
-![The 'Paint' option in the 'Choose a Backdrop' menu.](images/choose-a-backdrop.png){:style="float: left"}
+![Η επιλογή "Paint" στο μενού "Select a Backdrop".](images/choose-a-backdrop.png){:style="float: left"}
 
-Select which tool(s) to use to make the shape(s) that you want:
+Επιλέξτε ποια εργαλεία θα χρησιμοποιήσετε για να κάνετε το σχήμα(τα) που θέλετε:
 
-+ **Circle**: Click on the **Circle** tool to draw a circle. Press and hold the <kbd>Shift</kbd> key on your keyboard to draw a perfect circle.
++ **Κύκλος**: Κάντε κλικ στο **Κύκλος** για να σχεδιάσετε έναν κύκλο. Πατήστε παρατεταμένα το πλήκτρο <kbd>Shift</kbd> στο πληκτρολόγιό σας για να σχεδιάσετε έναν τέλειο κύκλο.
 
-![The Circle tool.](images/circle-tool.png)
+![Το εργαλείο Circle.](images/circle-tool.png)
 
-+ **Rectangle**: Click on the **Rectangle** tool to draw a rectangle. Press and hold the <kbd>Shift</kbd> key to draw a square.
++ **Ορθογώνιο**: Κάντε κλικ στο **Ορθογώνιο** για να σχεδιάσετε ένα ορθογώνιο. Πατήστε παρατεταμένα το πλήκτρο <kbd>Shift</kbd> για να σχεδιάσετε ένα τετράγωνο.
 
-![The Rectangle tool.](images/rectangle-tool.png)
+![Το εργαλείο ορθογώνιο.](images/rectangle-tool.png)
 
-+ **Triangle**: Use the **Rectangle** tool to draw a rectangle or a square. Click on the **Reshape** tool and select the corner that you want to remove. Click on the **Delete** tool to turn your shape into a triangle.
++ **Τρίγωνο**: Χρησιμοποιήστε το **Rectangle** για να σχεδιάσετε ένα ορθογώνιο ή ένα τετράγωνο. Κάντε κλικ στο **Αναδιαμόρφωση** και επιλέξτε τη γωνία που θέλετε να καταργήσετε. Κάντε κλικ στο **Διαγραφή** για να μετατρέψετε το σχήμα σας σε τρίγωνο.
 
-![A square shape with one corner selected.](images/square.png){:style="width: 150px"}
+![Τετράγωνο σχήμα με επιλεγμένη μία γωνία.](images/square.png){:style="width: 150px"}
 
-![The Reshape tool.](images/reshape.png)
+![Το εργαλείο ορθογώνιο.](images/reshape.png)
 
-![The Delete tool.](images/delete.png)
+![Το εργαλείο Διαγραφή.](images/delete.png)
 
-![A triangle shape.](images/corner.png){:style="width: 150px"}
+![Σχήμα τριγώνου.](images/corner.png){:style="width: 150px"}
 
-You can use the **Fill** tool to change the colour of a shape:
+Μπορείτε να χρησιμοποιήσετε το **Fill** για να αλλάξετε το χρώμα ενός σχήματος:
 
-![The Fill tool.](images/fill-tool.png)
+![Το εργαλείο συμπλήρωσης.](images/fill-tool.png)
 
-![The Fill colour chooser and the new colour of the shape.](images/changed-colour.png){:style="width: 350px"}
+![Ο επιλογέας χρώματος Fill και το νέο χρώμα του σχήματος.](images/changed-colour.png){:style="width: 350px"}
 
-You may need to use the **Forward** and **Backward** tools to move your shapes forward or backward so that they are positioned correctly within your image:
+Ίσως χρειαστεί να χρησιμοποιήσετε τα **Forward** και **Backward** για να μετακινήσετε τα σχήματά σας προς τα εμπρός ή προς τα πίσω, ώστε να τοποθετηθούν σωστά μέσα στην εικόνα σας:
 
-![The Forward and Backward tools.](images/front-back-tools.png)
+![Τα εργαλεία Forward and Backward.](images/front-back-tools.png)
 
-You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape:
+Μπορείτε να επιλέξετε όλα τα σχήματα και **Group** ώστε να μπορείτε να τα προσαρμόσετε ή να τα μετακινήσετε ως ένα σχήμα:
 
-![The Group tool.](images/group.png)
+![Το εργαλείο ομάδας.](images/group.png)
 
-![Multiple shapes selected.](images/selected-shapes.png){:style="width: 350px"}
+![Επιλέχθηκαν πολλά σχήματα.](images/selected-shapes.png){:style="width: 350px"}
 
-Here is an example of a sprite created with the **Circle** and **Rectangle** tools:
+Ακολουθεί ένα παράδειγμα sprite που δημιουργήθηκε με τα εργαλεία **Circle** και **Rectangle**:
 
-**Pig**: [See inside](https://scratch.mit.edu/projects/495903163/editor){:target="_blank"}
+**Γουρούνι**: [Δείτε μέσα](https://scratch.mit.edu/projects/495903163/editor){: target = "_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495903163/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Remember to name the costumes and backdrops that you create in the Paint editor.
+Θυμηθείτε να ονομάσετε τα κοστούμια και τα σκηνικά που δημιουργείτε στον επεξεργαστή Paint.
