@@ -12,7 +12,7 @@ Dewisa'r offeryn i'w defnyddio i wneud y siâp rwyt ti ei eisiau:
 
 ![Yr offeryn Cylch.](images/circle-tool.png)
 
-+ **petryal**: Clicia ar yr offeryn **Petryal** i dynnu petryal. Pwysa a dal y fysell <kbd>Shift</kbd> i dynnu sgwâr.
++ **Petryal**: Clicia ar yr offeryn **Petryal** i dynnu petryal. Pwysa a dal y fysell <kbd>Shift</kbd> i dynnu sgwâr.
 
 ![Yr offeryn Petryal.](images/rectangle-tool.png)
 
