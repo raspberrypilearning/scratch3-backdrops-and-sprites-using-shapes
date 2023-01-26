@@ -12,25 +12,25 @@ Select which tool(s) to use to make the shape(s) that you want:
 
 ![The Circle tool.](images/circle-tool.png)
 
-+ **Rectangle**: Click on the **Rectangle** tool to draw a rectangle. Press and hold the <kbd>Shift</kbd> key to draw a square.
++ **आयत**: आयत बनाने के लिए **आयत** टूल पर क्लिक करें। एक आयत बनाने के लिए <kbd>Shift</kbd> कुंजी को दबाकर रखें।
 
 ![The Rectangle tool.](images/rectangle-tool.png)
 
-+ **Triangle**: Use the **Rectangle** tool to draw a rectangle or a square. Click on the **Reshape** tool and select the corner that you want to remove. Click on the **Delete** tool to turn your shape into a triangle.
++ **Triangle**: Use the **Rectangle** tool to draw a rectangle or a square. **रीशेप** टूल पर क्लिक करें और उस कोने को चुनें जिसे आप हटाना चाहते हैं। Click on the **Delete** tool to turn your shape into a triangle.
 
 ![A square shape with one corner selected.](images/square.png){:style="width: 150px"}
 
-![The Reshape tool.](images/reshape.png)
+![रीशेप टूल।](images/reshape.png)
 
-![The Delete tool.](images/delete.png)
+![डिलीट टूल।](images/delete.png)
 
-![A triangle shape.](images/corner.png){:style="width: 150px"}
+![एक त्रिकोण आकार।](images/corner.png){:style="width: 150px"}
 
-You can use the **Fill** tool to change the colour of a shape:
+किसी आकृति का रंग बदलने के लिए आप **भरण** टूल का उपयोग कर सकते हैं:
 
 ![The Fill tool.](images/fill-tool.png)
 
-![The Fill colour chooser and the new colour of the shape.](images/changed-colour.png){:style="width: 350px"}
+![भरण रंग चयनकर्ता और आकृति का नया रंग।](images/changed-colour.png){:style="width: 350px"}
 
 You may need to use the **Forward** and **Backward** tools to move your shapes forward or backward so that they are positioned correctly within your image:
 
@@ -44,7 +44,7 @@ You can select all the shapes and **Group** them together so that you can adjust
 
 Here is an example of a sprite created with the **Circle** and **Rectangle** tools:
 
-**Pig**: [See inside](https://scratch.mit.edu/projects/495903163/editor){:target="_blank"}
+**सुअर**: [अंदर देखें](https://scratch.mit.edu/projects/495903163/editor) {:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495903163/?autostart=false" frameborder="0"></iframe>
 </div>
