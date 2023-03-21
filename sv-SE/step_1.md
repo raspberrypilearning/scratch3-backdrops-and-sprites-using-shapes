@@ -1,52 +1,52 @@
-You can create backdrops and costumes for sprites in the Paint editor, using just shapes.
+Du kan skapa bakgrunder och klädslar till sprajter i målarredigeraren med bara former.
 
-Go to the **Choose a Sprite** or **Choose a Backdrop** menu and choose the **Paint** option:
+Gå till **"Välj en Sprite"**-menyn eller **"Välj en bakgrund"**-menyn och välj alternativet **Måla**:
 
-![The 'Paint' option in the 'Choose a Sprite' menu.](images/choose-a-sprite.png){:style="float: left"}
+![Alternativet 'måla' i 'Välj en sprajt'-menyn.](images/choose-a-sprite.png){:style="float: left"}
 
-![The 'Paint' option in the 'Choose a Backdrop' menu.](images/choose-a-backdrop.png){:style="float: left"}
+![Alternativet 'Måla' i menyn 'Välj en bakgrund'.](images/choose-a-backdrop.png){:style="float: left"}
 
-Select which tool(s) to use to make the shape(s) that you want:
+Välj vilka verktyg som ska användas för att skapa formerna du vill ha:
 
-+ **Circle**: Click on the **Circle** tool to draw a circle. Press and hold the <kbd>Shift</kbd> key on your keyboard to draw a perfect circle.
++ **Cirkel**: Klicka på **Cirkel**verktyget för att rita en cirkel. Tryck och håll ned <kbd>Shift</kbd>-tangenten på ditt tangentbord för att rita en perfekt cirkel.
 
-![The Circle tool.](images/circle-tool.png)
+![Cirkelverktyget.](images/circle-tool.png)
 
-+ **Rectangle**: Click on the **Rectangle** tool to draw a rectangle. Press and hold the <kbd>Shift</kbd> key to draw a square.
++ **Rektangel**: Klicka på **Rektangel**verktyget för att rita en rektangel. Tryck och håll ned <kbd>Shift</kbd>-tangenten för att rita en kvadrat.
 
-![The Rectangle tool.](images/rectangle-tool.png)
+![Rektangelverktyget.](images/rectangle-tool.png)
 
-+ **Triangle**: Use the **Rectangle** tool to draw a rectangle or a square. Click on the **Reshape** tool and select the corner that you want to remove. Click on the **Delete** tool to turn your shape into a triangle.
++ **Triangel**: Använd **rektangel**-verktyget för att rita en rektangel eller en kvadrat. Klicka på **Omforma**verktyget och välj det hörn som du vill ta bort. Klicka på **Ta bort** för att förvandla din form till en triangel.
 
-![A square shape with one corner selected.](images/square.png){:style="width: 150px"}
+![En kvadrat med ett valt hörn.](images/square.png){:style="width: 150px"}
 
-![The Reshape tool.](images/reshape.png)
+![Verktyget Omforma.](images/reshape.png)
 
-![The Delete tool.](images/delete.png)
+![Verktyget Ta bort.](images/delete.png)
 
-![A triangle shape.](images/corner.png){:style="width: 150px"}
+![En triangelform.](images/corner.png){:style="width: 150px"}
 
-You can use the **Fill** tool to change the colour of a shape:
+Du kan använda **Fyll**verktyget för att ändra färgen på en form:
 
-![The Fill tool.](images/fill-tool.png)
+![Fyllningsverktyget.](images/fill-tool.png)
 
-![The Fill colour chooser and the new colour of the shape.](images/changed-colour.png){:style="width: 350px"}
+![Fyllningsfärgväljaren och den nya färgen på formen.](images/changed-colour.png){:style="width: 350px"}
 
-You may need to use the **Forward** and **Backward** tools to move your shapes forward or backward so that they are positioned correctly within your image:
+Du kan behöva använda **Framåt**- och **Bakåt**verktygen för att flytta dina former framåt eller bakåt så att de placeras rätt i din bild:
 
-![The Forward and Backward tools.](images/front-back-tools.png)
+![Verktygen Framåt och Bakåt.](images/front-back-tools.png)
 
-You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape:
+Du kan välja alla formerna och **Gruppera** dem tillsammans så att du kan justera dem och flytta dem som en form:
 
-![The Group tool.](images/group.png)
+![Gruppera verktyget.](images/group.png)
 
-![Multiple shapes selected.](images/selected-shapes.png){:style="width: 350px"}
+![Flera former har valts.](images/selected-shapes.png){:style="width: 350px"}
 
-Here is an example of a sprite created with the **Circle** and **Rectangle** tools:
+Här är ett exempel på en sprajt som har skapats med **Cirkel**- och **Rektangel**verktygen:
 
-**Pig**: [See inside](https://scratch.mit.edu/projects/495903163/editor){:target="_blank"}
+**Gris**: [Se inuti](https://scratch.mit.edu/projects/495903163/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495903163/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Remember to name the costumes and backdrops that you create in the Paint editor.
+Kom ihåg att namnge klädslarna och bakgrunderna som du skapar i målarredigeraren.
