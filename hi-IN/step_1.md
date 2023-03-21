@@ -1,24 +1,24 @@
-You can create backdrops and costumes for sprites in the Paint editor, using just shapes.
+आप केवल आकृतियों का उपयोग करके, पेंट संपादक में स्प्राइट्स के लिए बैकड्रॉप और पोशाक बना सकते हैं।
 
-Go to the **Choose a Sprite** or **Choose a Backdrop** menu and choose the **Paint** option:
+**Choose a Sprite** (स्प्राइट चुनें) या **Choose a Backdrop** (बैकड्रॉप चुनें) मेन्यू पर जाएं और **Paint** (पेंट) विकल्प चुनें:
 
-![The 'Paint' option in the 'Choose a Sprite' menu.](images/choose-a-sprite.png){:style="float: left"}
+!['Choose a Sprite' (स्प्राइट चुनें) मेन्यू में 'Paint' (पेंट) विकल्प।](images/choose-a-sprite.png){:style="float: left"}
 
-![The 'Paint' option in the 'Choose a Backdrop' menu.](images/choose-a-backdrop.png){:style="float: left"}
+!['Choose a Backdrop' (पृष्ठभूमि चुनें) मेनू में 'Paint' (पेंट) विकल्प।](images/choose-a-backdrop.png){:style="float: left"}
 
-Select which tool(s) to use to make the shape(s) that you want:
+इच्छित आकार बनाने के लिए उपयोग किए जाने वाले टूल का चयन करें:
 
-+ **Circle**: Click on the **Circle** tool to draw a circle. Press and hold the <kbd>Shift</kbd> key on your keyboard to draw a perfect circle.
++ **चक्र**: वृत्त बनाने के लिए **चक्र** टूल पर क्लिक करें। एक पूर्ण चक्र बनाने के लिए अपने कीबोर्ड पर <kbd>Shift</kbd> कुंजी को दबाकर रखें।
 
-![The Circle tool.](images/circle-tool.png)
+![चक्र टूल।](images/circle-tool.png)
 
 + **आयत**: आयत बनाने के लिए **आयत** टूल पर क्लिक करें। एक आयत बनाने के लिए <kbd>Shift</kbd> कुंजी को दबाकर रखें।
 
-![The Rectangle tool.](images/rectangle-tool.png)
+![आयत टूल।](images/rectangle-tool.png)
 
-+ **Triangle**: Use the **Rectangle** tool to draw a rectangle or a square. **रीशेप** टूल पर क्लिक करें और उस कोने को चुनें जिसे आप हटाना चाहते हैं। Click on the **Delete** tool to turn your shape into a triangle.
++ **त्रिभुज**: आयत या वर्ग बनाने के लिए **आयत** टूल का उपयोग करें। **रीशेप** टूल पर क्लिक करें और उस कोने को चुनें जिसे आप हटाना चाहते हैं। अपने आकार को त्रिभुज में बदलने के लिए **Delete** (डिलीट) टूल पर क्लिक करें।
 
-![A square shape with one corner selected.](images/square.png){:style="width: 150px"}
+![एक कोने के साथ एक चौकोर आकार चयनित है।](images/square.png){:style="width: 150px"}
 
 ![रीशेप टूल।](images/reshape.png)
 
@@ -28,25 +28,25 @@ Select which tool(s) to use to make the shape(s) that you want:
 
 किसी आकृति का रंग बदलने के लिए आप **भरण** टूल का उपयोग कर सकते हैं:
 
-![The Fill tool.](images/fill-tool.png)
+![भरण टूल।](images/fill-tool.png)
 
 ![भरण रंग चयनकर्ता और आकृति का नया रंग।](images/changed-colour.png){:style="width: 350px"}
 
-You may need to use the **Forward** and **Backward** tools to move your shapes forward or backward so that they are positioned correctly within your image:
+आपको अपनी आकृतियों को आगे या पीछे ले जाने के लिए **Froward** (फॉरवर्ड) और **Backward** (बैकवर्ड) टूल का उपयोग करने की आवश्यकता हो सकती है ताकि वे आपकी छवि में सही ढंग से स्थित हो सकें:
 
-![The Forward and Backward tools.](images/front-back-tools.png)
+![फॉरवर्ड और बैकवर्ड टूल्स।](images/front-back-tools.png)
 
-You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape:
+आप सभी आकृतियों का चयन करके **ग्रुप** (Group) कर सकते हैं ताकि आप उन्हें समायोजित कर सकें या उन्हें एक आकार के रूप में स्थानांतरित कर सकें:
 
-![The Group tool.](images/group.png)
+![ग्रुप टूल।](images/group.png)
 
-![Multiple shapes selected.](images/selected-shapes.png){:style="width: 350px"}
+![एकाधिक आकार चुने गए |](images/selected-shapes.png){:style="width: 350px"}
 
-Here is an example of a sprite created with the **Circle** and **Rectangle** tools:
+यहां **चक्र** और **आयत** टूल के साथ बनाए गए स्प्राइट का उदाहरण दिया गया है:
 
 **सुअर**: [अंदर देखें](https://scratch.mit.edu/projects/495903163/editor) {:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495903163/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Remember to name the costumes and backdrops that you create in the Paint editor.
+पेंट संपादक में आपके द्वारा बनाई जाने वाली पोशाकों और बैकड्रॉप को नाम देना याद रखें।
