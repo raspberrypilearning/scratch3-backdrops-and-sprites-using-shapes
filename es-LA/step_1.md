@@ -8,11 +8,11 @@ Ve al menú **Elegir un objeto** o **Elige un fondo** y elige la opción **Pinta
 
 Selecciona qué herramienta(s) usar para hacer la(s) forma(s) que deseas:
 
-+ **Círculo**: Haz clic en la herramienta **Círculo** para dibujar un círculo. Mantén presionada la tecla <kbd>Mayúscula</kbd> en tu teclado para dibujar un círculo perfecto.
++ **Círculo**: Haz clic en la herramienta **Círculo** para dibujar uno. Mantén presionada la tecla <kbd>Mayúscula</kbd> en tu teclado para dibujar un círculo perfecto.
 
 ![La herramienta Círculo.](images/circle-tool.png)
 
-+ **Rectángulo**: Haz clic en la herramienta **Rectángulo** para dibujar un rectángulo. Mantén presionada la tecla <kbd>Mayúscula</kbd> para dibujar un cuadrado.
++ **Rectángulo**: Haz clic en la herramienta **Rectángulo** para dibujar uno. Mantén presionada la tecla <kbd>Mayúscula</kbd> para dibujar un cuadrado.
 
 ![La herramienta Rectángulo.](images/rectangle-tool.png)
 
