@@ -40,7 +40,7 @@
 
 ![ग्रुप टूल।](images/group.png)
 
-![एकाधिक आकार चुने गए |](images/selected-shapes.png){:style="width: 350px"}
+![एकाधिक आकार चुने गए ।](images/selected-shapes.png){:style="width: 350px"}
 
 यहां **चक्र** और **आयत** टूल के साथ बनाए गए स्प्राइट का उदाहरण दिया गया है:
 
