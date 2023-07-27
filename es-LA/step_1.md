@@ -43,10 +43,8 @@ Se pueden seleccionar todas las formas y **Agruparlas** entre sí de modo que se
 ![Varias formas seleccionadas.](images/selected-shapes.png){:style="width: 350px"}
 
 A continuación se muestra un ejemplo de un objeto creado con las herramientas **Círculo** y **Rectángulo**:
-
-**Cerdo**: [Ver dentro](https://scratch.mit.edu/projects/495903163/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495903163/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 Recuerda nombrar los disfraces y los fondos que creas en el editor de dibujo.
