@@ -43,10 +43,8 @@ Você pode selecionar todas as formas e **Agrupar** de modo que elas possam ser 
 ![Múltiplas formas selecionadas.](images/selected-shapes.png){:style="width: 350px"}
 
 Aqui temos um exemplo de um ator criado com as ferramentas **Círculo** e **Retângulo**:
-
-**Porco**: [Veja um exemplo ](https://scratch.mit.edu/projects/495903163/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495903163/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 Lembre-se de nomear as fantasias e os cenários que você criou no editor de Pintar.
