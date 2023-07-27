@@ -43,10 +43,8 @@
 ![एकाधिक आकार चुने गए |](images/selected-shapes.png){:style="width: 350px"}
 
 यहां **चक्र** और **आयत** टूल के साथ बनाए गए स्प्राइट का उदाहरण दिया गया है:
-
-**सुअर**: [अंदर देखें](https://scratch.mit.edu/projects/495903163/editor) {:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495903163/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 पेंट संपादक में आपके द्वारा बनाई जाने वाली पोशाकों और बैकड्रॉप को नाम देना याद रखें।
