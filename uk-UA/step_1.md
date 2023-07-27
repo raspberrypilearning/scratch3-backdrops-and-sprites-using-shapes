@@ -43,10 +43,8 @@
 ![Вибрано кілька фігур.](images/selected-shapes.png){:style="width: 350px"}
 
 Ось приклад спрайта, створеного за допомогою інструментів **Коло** та **Прямокутник**:
-
-**Свиня**: [Переглянути код](https://scratch.mit.edu/projects/495903163/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495903163/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 Пам'ятай, що образам та тлам, які ти створюєш у Редакторі малювання, потрібно давати назву.
