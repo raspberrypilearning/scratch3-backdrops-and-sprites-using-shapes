@@ -43,10 +43,8 @@ Je kunt alle vormen selecteren en ze samen **Groeperen** zodat je ze als één g
 ![Meerdere vormen geselecteerd.](images/selected-shapes.png){:style="width: 350px"}
 
 Hier een voorbeeld van een sprite gemaakt met de **Cirkel** en **Rechthoek** gereedschappen:
-
-**Varken**: [Bekijk van binnen](https://scratch.mit.edu/projects/495903163/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495903163/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 Vergeet niet om de uiterlijken en achtergronden die je maakt in de Teken editor een naam te geven.
