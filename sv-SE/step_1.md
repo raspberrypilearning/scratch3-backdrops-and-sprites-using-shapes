@@ -43,10 +43,8 @@ Du kan välja alla formerna och **Gruppera** dem tillsammans så att du kan just
 ![Flera former har valts.](images/selected-shapes.png){:style="width: 350px"}
 
 Här är ett exempel på en sprajt som har skapats med **Cirkel**- och **Rektangel**verktygen:
-
-**Gris**: [Se inuti](https://scratch.mit.edu/projects/495903163/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495903163/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 Kom ihåg att namnge klädslarna och bakgrunderna som du skapar i målarredigeraren.
