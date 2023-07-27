@@ -43,10 +43,8 @@
 ![Επιλέχθηκαν πολλά σχήματα.](images/selected-shapes.png){:style="width: 350px"}
 
 Ακολουθεί ένα παράδειγμα αντικειμένου που δημιουργήθηκε με τα εργαλεία **Κύκλος** και **Ορθογώνιο**:
-
-**Γουρούνι**: [Δες μέσα](https://scratch.mit.edu/projects/495903163/editor){: target = "_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495903163/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 Θυμήσου να ονομάσεις τις ενδυμασίες και τα υπόβαθρα που δημιούργησες στον επεξεργαστή Ζωγραφική.
