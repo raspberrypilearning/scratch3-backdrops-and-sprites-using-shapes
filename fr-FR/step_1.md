@@ -43,10 +43,8 @@ Tu peux sélectionner toutes les formes et les **Grouper** ensemble afin de pouv
 ![Plusieurs formes sélectionnées.](images/selected-shapes.png){:style="width: 350px"}
 
 Voici un exemple de sprite créé avec les outils **Cercle** et **Rectangle** :
-
-**Cochon** : [Voir à l'intérieur](https://scratch.mit.edu/projects/495903163/editor){:target="_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495903163/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 N'oublie pas de nommer les costumes et les arrière-plans que tu crées dans l'éditeur de peinture.
