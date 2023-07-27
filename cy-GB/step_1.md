@@ -43,10 +43,8 @@ Galli di ddewis yr holl siapiau a'u **Grwpio** gyda'i gilydd fel y galli di eu h
 ![Sawl siap wedi'u dewis.](images/selected-shapes.png){:style="width: 350px"}
 
 Dyma enghraifft o corlun a grëwyd gyda'r offer **Cylch** a **Petryal**:
-
-**Mochyn**: [Gweld tu mewn](https://scratch.mit.edu/projects/495903163/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495903163/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 Cofia enwi'r gwisgoedd a'r cefndiroedd rwyt ti'n eu creu yn y golygydd Paent.
