@@ -43,10 +43,8 @@ You can select all the shapes and **Group** them together so that you can adjust
 ![Multiple shapes selected.](images/selected-shapes.png){:style="width: 350px"}
 
 Here is an example of a sprite created with the **Circle** and **Rectangle** tools:
-
-**Pig**: [See inside](https://scratch.mit.edu/projects/495903163/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495903163/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 Remember to name the costumes and backdrops that you create in the Paint editor.
