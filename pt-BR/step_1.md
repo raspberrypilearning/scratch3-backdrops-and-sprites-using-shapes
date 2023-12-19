@@ -1,6 +1,6 @@
-Você pode criar cenários e fantasiar atores no editor de pintura, usando apenas formas.
+Você pode criar cenários e fantasias para atores no editor Paint, usando apenas formas.
 
-Vá para o menu **Escolha um ator** ou **Escolha um cenário** e selecione a opção **Pintar**:
+Vá para o menu **Selecione um Ator** ou **Selecionar Cenário** e selecione a opção **Pintar**:
 
 ![A opção 'Pintar' no menu 'Selecione um Ator'.](images/choose-a-sprite.png){:style="float: left"}
 
@@ -47,4 +47,4 @@ Aqui temos um exemplo de um ator criado com as ferramentas **Círculo** e **Ret�
   <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
-Lembre-se de nomear as fantasias e os cenários que você criou no editor de Pintar.
+Lembre-se de nomear as fantasias e os cenários que você criou no editor Paint.
