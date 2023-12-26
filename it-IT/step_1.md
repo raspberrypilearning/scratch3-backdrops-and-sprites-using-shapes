@@ -8,7 +8,7 @@ Go to the **Choose a Sprite** or **Choose a Backdrop** menu and choose the **Pai
 
 Select which tool(s) to use to make the shape(s) that you want:
 
-+ **Circle**: Click on the **Circle** tool to draw a circle. Press and hold the <kbd>Shift</kbd> key on your keyboard to draw a perfect circle.
++ **Cerchio**: Cliccare sullo strumento **Cerchio** per disegnare un cerchio. Press and hold the <kbd>Shift</kbd> key on your keyboard to draw a perfect circle.
 
 ![The Circle tool.](images/circle-tool.png)
 
