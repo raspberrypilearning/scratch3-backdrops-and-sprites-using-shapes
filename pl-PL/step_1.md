@@ -1,50 +1,50 @@
-You can create backdrops and costumes for sprites in the Paint editor, using just shapes.
+Możesz tworzyć tła i kostiumy dla duszków w edytorze Maluj, używając tylko kształtów.
 
-Go to the **Choose a Sprite** or **Choose a Backdrop** menu and choose the **Paint** option:
+Przejdź do menu **Wybierz duszka** lub **Wybierz tło** i wybierz opcję **Maluj**:
 
-![The 'Paint' option in the 'Choose a Sprite' menu.](images/choose-a-sprite.png){:style="float: left"}
+![Opcja „Maluj” w menu „Wybierz duszka”.](images/choose-a-sprite.png){:style="float: left"}
 
-![The 'Paint' option in the 'Choose a Backdrop' menu.](images/choose-a-backdrop.png){:style="float: left"}
+![Opcja „Maluj” w menu „Wybierz tło”.](images/choose-a-backdrop.png){:style="float: left"}
 
-Select which tool(s) to use to make the shape(s) that you want:
+Wybierz narzędzia, których chcesz użyć do stworzenia żądanych kształtów:
 
-+ **Circle**: Click on the **Circle** tool to draw a circle. Press and hold the <kbd>Shift</kbd> key on your keyboard to draw a perfect circle.
++ **Okrąg**: Kliknij narzędzie **Okrąg**, aby narysować okrąg. Naciśnij i przytrzymaj klawisz <kbd>Shift</kbd> na klawiaturze, aby narysować idealny okrąg.
 
-![The Circle tool.](images/circle-tool.png)
+![Narzędzie Okrąg.](images/circle-tool.png)
 
-+ **Rectangle**: Click on the **Rectangle** tool to draw a rectangle. Press and hold the <kbd>Shift</kbd> key to draw a square.
++ **Prostokąt**: Kliknij narzędzie **Prostokąt**, aby narysować prostokąt. Naciśnij i przytrzymaj klawisz <kbd>Shift</kbd>, aby narysować kwadrat.
 
-![The Rectangle tool.](images/rectangle-tool.png)
+![Narzędzie Prostokąt.](images/rectangle-tool.png)
 
-+ **Triangle**: Use the **Rectangle** tool to draw a rectangle or a square. Click on the **Reshape** tool and select the corner that you want to remove. Click on the **Delete** tool to turn your shape into a triangle.
++ **Trójkąt**: Użyj narzędzia **Prostokąt**, aby narysować prostokąt lub kwadrat. Kliknij narzędzie **Przekształć** i wybierz narożnik, który chcesz usunąć. Kliknij narzędzie **Usuń**, aby zmienić swój kształt w trójkąt.
 
-![A square shape with one corner selected.](images/square.png){:style="width: 150px"}
+![Kwadratowy kształt z wybranym jednym rogiem.](images/square.png){:style="width: 150px"}
 
-![The Reshape tool.](images/reshape.png)
+![Narzędzie Przekształć.](images/reshape.png)
 
-![The Delete tool.](images/delete.png)
+![Narzędzie Usuń.](images/delete.png)
 
-![A triangle shape.](images/corner.png){:style="width: 150px"}
+![Kształt trójkąta.](images/corner.png){:style="width: 150px"}
 
-You can use the **Fill** tool to change the colour of a shape:
+Możesz użyć narzędzia **Wypełnij**, aby zmienić kolor kształtu:
 
-![The Fill tool.](images/fill-tool.png)
+![Narzędzie Wypełnij.](images/fill-tool.png)
 
-![The Fill colour chooser and the new colour of the shape.](images/changed-colour.png){:style="width: 350px"}
+![Selektor koloru narzędzia Wypełnij i nowy kolor kształtu.](images/changed-colour.png){:style="width: 350px"}
 
-You may need to use the **Forward** and **Backward** tools to move your shapes forward or backward so that they are positioned correctly within your image:
+Może być konieczne użycie narzędzi **Do przodu** i **Do tyłu**, aby przesunąć kształty do przodu lub do tyłu, tak aby były prawidłowo umieszczone na obrazie:
 
-![The Forward and Backward tools.](images/front-back-tools.png)
+![Narzędzia do przesuwania warstw Do przodu i Do tyłu.](images/front-back-tools.png)
 
-You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape:
+Możesz zaznaczyć wszystkie kształty i wybrać **Grupuj**, dzięki czemu można dostosować je lub przenieść jako jeden kształt:
 
-![The Group tool.](images/group.png)
+![Narzędzie Grupuj.](images/group.png)
 
-![Multiple shapes selected.](images/selected-shapes.png){:style="width: 350px"}
+![Wybrano wiele kształtów.](images/selected-shapes.png){:style="width: 350px"}
 
-Here is an example of a sprite created with the **Circle** and **Rectangle** tools:
+Oto przykład duszka utworzonego za pomocą narzędzi **Okrąg** i **Prostokąt**:
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
-Remember to name the costumes and backdrops that you create in the Paint editor.
+Pamiętaj, aby nazwać kostiumy i tła, które tworzysz w edytorze Maluj.
