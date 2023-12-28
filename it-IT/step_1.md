@@ -1,50 +1,50 @@
-You can create backdrops and costumes for sprites in the Paint editor, using just shapes.
+Puoi creare sfondi e costumi per gli sprite nell'editor Paint, usando solo le forme.
 
-Go to the **Choose a Sprite** or **Choose a Backdrop** menu and choose the **Paint** option:
+Vai al menu **Scegli uno Sprite** o **Scegli uno Sfondo** e scegli l'opzione **Disegna un nuovo Sprite/Sfondo**:
 
-![The 'Paint' option in the 'Choose a Sprite' menu.](images/choose-a-sprite.png){:style="float: left"}
+![L'opzione 'Disegna un nuovo sprite' nel menu 'Scegli uno Sprite'.](images/choose-a-sprite.png){:style="float: left"}
 
-![The 'Paint' option in the 'Choose a Backdrop' menu.](images/choose-a-backdrop.png){:style="float: left"}
+![L'opzione 'Disegna un nuovo sfondo' nel menu 'Scegli uno Sfondo'.](images/choose-a-backdrop.png){:style="float: left"}
 
-Select which tool(s) to use to make the shape(s) that you want:
+Seleziona quali strumenti utilizzare per creare le forme desiderate:
 
-+ **Cerchio**: Cliccare sullo strumento **Cerchio** per disegnare un cerchio. Press and hold the <kbd>Shift</kbd> key on your keyboard to draw a perfect circle.
++ **Cerchio**: Cliccare sullo strumento **Cerchio** per disegnare un cerchio. Tieni premuto il tasto <kbd>Shift</kbd> sulla tastiera per disegnare un cerchio perfetto.
 
-![The Circle tool.](images/circle-tool.png)
+![Lo strumento Cerchio.](images/circle-tool.png)
 
-+ **Rectangle**: Click on the **Rectangle** tool to draw a rectangle. Press and hold the <kbd>Shift</kbd> key to draw a square.
++ **Rettangolo**: Clicca sullo strumento **Rettangolo** per disegnare un rettangolo. Tieni premuto il tasto <kbd>Shift</kbd> per disegnare un quadrato.
 
-![The Rectangle tool.](images/rectangle-tool.png)
+![Lo strumento Rettangolo.](images/rectangle-tool.png)
 
-+ **Triangle**: Use the **Rectangle** tool to draw a rectangle or a square. Click on the **Reshape** tool and select the corner that you want to remove. Click on the **Delete** tool to turn your shape into a triangle.
++ **Triangolo**: Usa lo strumento **Rettangolo** per disegnare un rettangolo o un quadrato. Clicca sullo strumento **Modifica Contorno** e seleziona il vertice che vuoi rimuovere. Clicca sullo strumento **Cancella** per trasformare la tua forma in un triangolo.
 
-![A square shape with one corner selected.](images/square.png){:style="width: 150px"}
+![Una forma quadrata con un vertice selezionato.](images/square.png){:style="width: 150px"}
 
-![The Reshape tool.](images/reshape.png)
+![Lo strumento Modifica Contorno.](images/reshape.png)
 
-![The Delete tool.](images/delete.png)
+![Lo strumento Cancella.](images/delete.png)
 
-![A triangle shape.](images/corner.png){:style="width: 150px"}
+![Una forma triangolare.](images/corner.png){:style="width: 150px"}
 
-You can use the **Fill** tool to change the colour of a shape:
+Puoi usare lo strumento **Riempimento** per cambiare il colore di una forma:
 
-![The Fill tool.](images/fill-tool.png)
+![Lo strumento Riempimento.](images/fill-tool.png)
 
-![The Fill colour chooser and the new colour of the shape.](images/changed-colour.png){:style="width: 350px"}
+![Il selettore colore Riempimento e il nuovo colore della forma.](images/changed-colour.png){:style="width: 350px"}
 
-You may need to use the **Forward** and **Backward** tools to move your shapes forward or backward so that they are positioned correctly within your image:
+Potresti dover usare gli strumenti **Porta avanti** e **Porta indietro** per mettere le forme in primo o secondo piano, in modo che siano posizionate correttamente all'interno dell'immagine:
 
-![The Forward and Backward tools.](images/front-back-tools.png)
+![Gli strumenti Porta avanti e Porta indietro.](images/front-back-tools.png)
 
-You can select all the shapes and **Group** them together so that you can adjust them or move them as one shape:
+Puoi selezionare tutte le forme e usare lo strumento **Raggrupa** per raggrupparle insieme, così le potrai cambiare o muovere come se fossero un'unica forma:
 
-![The Group tool.](images/group.png)
+![Lo strumento Raggruppa.](images/group.png)
 
-![Multiple shapes selected.](images/selected-shapes.png){:style="width: 350px"}
+![Più forme selezionate.](images/selected-shapes.png){:style="width: 350px"}
 
-Here is an example of a sprite created with the **Circle** and **Rectangle** tools:
+Ecco un esempio di uno sprite creato con gli strumenti **Cerchio** e **Rettangolo**:
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
-Remember to name the costumes and backdrops that you create in the Paint editor.
+Ricorda di dare un nome ai costumi e agli sfondi che crei nell'editor Paint.
