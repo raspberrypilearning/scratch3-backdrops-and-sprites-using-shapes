@@ -2,7 +2,7 @@ Możesz tworzyć tła i kostiumy dla duszków w edytorze Maluj, używając tylko
 
 Przejdź do menu **Wybierz duszka** lub **Wybierz tło** i wybierz opcję **Maluj**:
 
-![Opcja „Maluj” w menu „Wybierz duszka”.](images/choose-a-sprite.png)
+![Opcja „Maluj” w menu „Wybierz duszka”.](images/choose-a-sprite.png){:style="float: left"}
 
 ![Opcja „Maluj” w menu „Wybierz tło”.](images/choose-a-backdrop.png)
 
