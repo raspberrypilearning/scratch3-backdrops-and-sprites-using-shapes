@@ -4,7 +4,7 @@ Przejdź do menu **Wybierz duszka** lub **Wybierz tło** i wybierz opcję **Malu
 
 ![Opcja „Maluj” w menu „Wybierz duszka”.](images/choose-a-sprite.png){:style="float: left"}
 
-![Opcja „Maluj” w menu „Wybierz tło”.](images/choose-a-backdrop.png){:style="float: left"}
+![Opcja „Maluj” w menu „Wybierz tło”.](images/choose-a-backdrop.png)
 
 Wybierz narzędzia, których chcesz użyć do stworzenia żądanych kształtów:
 
