@@ -6,7 +6,7 @@ Przejdź do menu **Wybierz duszka** lub **Wybierz tło** i wybierz opcję **Malu
 
 ![Opcja „Maluj” w menu „Wybierz tło”.](images/choose-a-backdrop.png){:style="float: left"}
 
-Wybierz narzędzia, których chcesz użyć do stworzenia żądanych kształtów:
+Wybierz narzędzie, których chcesz użyć do stworzenia żądanych kształtów:
 
 + **Okrąg**: Kliknij narzędzie **Okrąg**, aby narysować okrąg. Naciśnij i przytrzymaj klawisz <kbd>Shift</kbd> na klawiaturze, aby narysować idealny okrąg.
 
