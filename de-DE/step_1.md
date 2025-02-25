@@ -44,7 +44,7 @@ Du kannst alle Formen auswählen und **Gruppieren**, sodass du sie als eine Form
 
 Hier ist ein Beispiel für eine Figur, die mit den Werkzeugen **Kreis** und **Rechteck** erstellt wurde:
 
-**Schwein**: [Siehe innen](https://scratch.mit.edu/projects/495903163/editor){:target="_blank"}
+**Schwein**: [Schau rein](https://scratch.mit.edu/projects/495903163/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495903163/?autostart=false" frameborder="0"></iframe>
 </div>
